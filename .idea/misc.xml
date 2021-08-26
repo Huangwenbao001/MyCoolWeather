@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2064814814814815" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/layout/choose_area.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/layout/fragment_choose_area.xml" value="0.1" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/layout/litepal.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/MyCoolWeather/app/src/main/res/xml/litepal.xml" value="0.1" />
       </map>
     </option>
   </component>
