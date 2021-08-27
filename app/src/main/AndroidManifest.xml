@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mycoolweather.android">
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name="org.litepal.LitePalApplication"
         android:allowBackup="true"
@@ -9,8 +13,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.NoActionBar"
-        >
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".WeatherActivity"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
